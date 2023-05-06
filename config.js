@@ -5,14 +5,14 @@ import { fileURLToPath } from 'url'
 //inserisci il tuo o i tuoi numeri 
 
 global.owner = [
-  ['39XXXXXXXXXX', 'nobody|', true]
+  ['393518398856', 'nobody|', true]
 
 ] //inserisci il tuo o i tuoi numeri 
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.mods = ['39XXXXXXXXXX'] 
-global.prems = ['39XXXXXXXXXX', '39XXXXXXXXXX']
+global.mods = ['393518398856'] 
+global.prems = ['393518398856', '393518398856']
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
